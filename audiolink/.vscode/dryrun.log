@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/code/audiolink'
+gcc -I./inc/ -c src/audiolink.c -o obj/audiolink.o
+gcc -I./inc/ -c src/main.c -o obj/main.o
+gcc  ./obj/audiolink.o  ./obj/main.o -o link -lm -lasound -L ./src/fftw/lib -lfftw3f
+make: Leaving directory '/home/code/audiolink'
+ 

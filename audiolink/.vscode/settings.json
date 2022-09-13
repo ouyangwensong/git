@@ -1,0 +1,30 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "math.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "asoundlib.h": "c",
+        "conf.h": "c",
+        "error.h": "c",
+        "output.h": "c",
+        "input.h": "c",
+        "global.h": "c",
+        "version.h": "c",
+        "asoundef.h": "c",
+        "pcm.h": "c",
+        "rawmidi.h": "c",
+        "control.h": "c",
+        "seq.h": "c",
+        "seq_event.h": "c",
+        "mixer.h": "c",
+        "hwdep.h": "c",
+        "timer.h": "c",
+        "fftw3.h": "c",
+        "signal.h": "c",
+        "stdlib.h": "c",
+        "poll.h": "c",
+        "endian.h": "c",
+        "uintn-identity.h": "c"
+    }
+}
